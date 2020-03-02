@@ -1,4 +1,4 @@
-# Boilermaker for MOTHERVOARD
+# Boilermaker
 
 _Good things come in pairs_
 
