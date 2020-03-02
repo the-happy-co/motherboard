@@ -1,4 +1,4 @@
-# Boilermaker Céline
+# Boilermaker Céline, John McDonald
 
 _Good things come in pairs_
 
